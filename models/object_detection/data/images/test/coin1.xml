@@ -1,0 +1,62 @@
+<annotation>
+	<folder>coin</folder>
+	<filename>coin1.jpg</filename>
+	<path>/Users/kane/Downloads/coin/coin1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2160</width>
+		<height>3840</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>5 dallar</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>413</xmin>
+			<ymin>1398</ymin>
+			<xmax>917</xmax>
+			<ymax>1870</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>1 dallar</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1046</xmin>
+			<ymin>1318</ymin>
+			<xmax>1522</xmax>
+			<ymax>1751</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>10 dallar</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>736</xmin>
+			<ymin>2041</ymin>
+			<xmax>1346</xmax>
+			<ymax>2618</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>10 dallar</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1351</xmin>
+			<ymin>1727</ymin>
+			<xmax>1941</xmax>
+			<ymax>2284</ymax>
+		</bndbox>
+	</object>
+</annotation>
